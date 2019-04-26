@@ -4,4 +4,7 @@ tshis is file "test" test.
 this is file "test" test.
 test bugs.
 test.
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
